@@ -1,10 +1,10 @@
-![padavan](https://github.com/kilipan/tsuru/blob/main/img/padavan_photo.jpg?raw=true)
+![padavan](https://github.com/kilipan/padavan/blob/main/img/padavan_photo.jpg?raw=true)
 
 # Padavan
 A Minivan keyboard with small numpad and wireless capabilities.
 
 ## Layout Options
-![KLE](https://github.com/kilipan/tsuru/blob/main/img/padavan_KLE.png?raw=true)
+![KLE](https://github.com/kilipan/padavan/blob/main/img/padavan_KLE.png?raw=true)
 
 ## BOM
 | Amount | Part |
