@@ -25,4 +25,4 @@ All files are provided under CERN-OHL-S license. Feel free to build your own!
 
 ### Case
 The fantastic case was designed by DizzySkizzo (`dizzyskizzo1337` on discord). Thank you for letting me use and open source this genius design!
-Production files available in [`prod/case`](https://github.com/kilipan/padavan/tree/main/production/case).
+Production files available in [`production/case`](https://github.com/kilipan/padavan/tree/main/production/case).
