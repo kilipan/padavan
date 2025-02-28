@@ -6,6 +6,8 @@ A Minivan keyboard with small numpad and wireless capabilities.
 ## Layout Options
 ![KLE](https://github.com/kilipan/padavan/blob/main/img/padavan_KLE.png?raw=true)
 
+An untested southpaw variant can be found in the [`southpaw`](https://github.com/kilipan/padavan/tree/main/southpaw) directory. Use at your own risk!
+
 ## BOM
 | Amount | Part |
 |-------:|:-----|
