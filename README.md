@@ -20,7 +20,7 @@ If you want to use the Padavan wirelessly, you'll need a wireless-capable contro
 
 ## Firmware
 Tested and working [ZMK firmware](https://github.com/kilipan/zmk-config-padavan) is available,
-as well as [QMK firmware including Vial](https://gitub.com/kilipan/qmk-config-padavan).
+as well as [QMK firmware including Vial](https://github.com/kilipan/qmk-config-padavan).
 
 ## Availability
 All files are provided under CERN-OHL-S license. Feel free to build your own!
