@@ -9,12 +9,12 @@ A southpaw Minivan keyboard with small numpad and wireless capabilities.
 ## BOM
 | Amount | Part |
 |-------:|:-----|
-|      1 | Padavan PCB |
-|      1 | Padavan Plate |
+|      1 | Vanapad PCB |
+|      1 | Vanapad plate |
 |      1 | Pro-Micro compatible MCU board |
-|  58-63 | Kailh MX Hot Swap Sockets |
+|  58-63 | Kailh MX hot swap sockets |
 
-If you want to use the Padavan wirelessly, you'll need a wireless-capable controller, like e.g. the [nice!nano](https://nicekeyboards.com/nice-nano/)!
+If you want to use the Vanapad wirelessly, you'll need a wireless-capable controller, like e.g. the [nice!nano](https://nicekeyboards.com/nice-nano/)!
 
 ## Firmware
 Not yet available. You can try modifying the padavan firmware!
